@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06b9d201-25ff-47a4-af5e-155720cc0b3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TXTbc.php" afterPath="$PROJECT_DIR$/TXTbc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bc.class.php" afterPath="$PROJECT_DIR$/bc.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="big_cache.iws" />
@@ -184,6 +181,13 @@
       <option name="number" value="Default" />
       <updated>1420553340535</updated>
     </task>
+    <task id="LOCAL-00001" summary="ee">
+      <created>1420585952172</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1420585952172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -249,7 +253,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="ee" />
+    <option name="LAST_COMMIT_MESSAGE" value="ee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
