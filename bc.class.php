@@ -46,7 +46,7 @@ abstract class bc
 	/**
 	 * Считываение данных из кеша
 	 *
-	 * @return boolean
+	 * @return boolean or string
 	 */
 	abstract function read();
 }

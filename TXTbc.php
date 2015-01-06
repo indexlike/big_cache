@@ -94,8 +94,8 @@ class TXTbc extends bc {
 			//echo $file.'<br />';
 			//$fp=fopen($file, "r"); // Открываем файл в режиме чтения
 			$fp=readfile($file);
-			if($fp){
-				//return $fp;
+			if($fp!==FALSE){
+				return $fp;
 			} else{
 				return FALSE;
 			}
